@@ -1,4 +1,4 @@
-import Highcharts, { Options, Tick } from "highcharts/highstock";
+import Highcharts, { Options, Tick } from 'highcharts';
 import HighchartsReact from 'highcharts-react-official';
 import _isEmpty from 'lodash/isEmpty';
 import React, { useCallback, useEffect, useState } from 'react';
